@@ -4,7 +4,7 @@
  Here are some things you might want to know about me.
 
 - 😄 Pronouns: she/her
-- 🇧🇷  I'm brasillian, my first language is portuguese but i can speak english and spanish 
+- 🇧🇷  I'm brasillian, my first language is portuguese but i can speak english and spanish as well
 - 👩‍💻 I'm an intern, Python developer
 - 🌱 I’m currently working on machine learning, using yolov5 to train and detect various products on a smart weight scale
 - 👯 I’m interested in Cybersecurity and would love to receive advices and tips about the area
