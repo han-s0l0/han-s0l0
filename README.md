@@ -14,7 +14,7 @@
 
           --PORTUGUESE--
           
- Olá!! Me chamo Hanna, tenho 19 anos e estou feliz em te ver por aqui! 😄
+ Olá!! Me chamo Hanna, tenho 19 anos e fico feliz em te ver por aqui! 😄
  Aqui vão algumas coisas que você talvez queira saber sobre mim.
   
 - 😄 Pronomes: ela/dela
