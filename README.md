@@ -8,4 +8,11 @@
           </ol>
 </h2>
 
+<h3>My knowledge:
+          <br><br>
+          <img src= "https://user-images.githubusercontent.com/111011292/211857430-9b9ff640-551b-4ae0-986c-2de98f8a3b64.png" height= "65px" width= "60px">
+          <img src= "https://user-images.githubusercontent.com/111011292/211858412-f07db10b-3782-4a29-8aa7-44c09f64e692.svg" height= "60px" width= "60px">
+          <img src= "https://user-images.githubusercontent.com/111011292/211858806-a9f8703c-6704-4863-8896-1bc58768b004.svg" height= "60px" width= "60px">
+</h3>
+
 
