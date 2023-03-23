@@ -1,4 +1,4 @@
-<h1>Hi, i'm Hanna. Nice to meet you!</h1>
+<h1>Hi, I'm Hanna. Nice to meet you!</h1>
 
 <h2>
           <ol>
