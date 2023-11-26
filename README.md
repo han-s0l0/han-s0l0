@@ -9,7 +9,7 @@
      Entre em contato através do meu LinkedIn: <a href="https://www.linkedin.com/in/hanna-dias-roger" target="_blank"><img src="https://user-images.githubusercontent.com/111011292/211854709-e03ee6b9-bd9e-4b70-95b1-c3514dbce303.png" align= "center" height= "30px" width= "40px"/></a>
 </h2>
 
-<h3>Habilidades:</h3>
+<h2>Habilidades:</h2>
 <div>
      <img src= "https://user-images.githubusercontent.com/111011292/211857430-9b9ff640-551b-4ae0-986c-2de98f8a3b64.png" height= "65px" width= "60px">
      <img src= "https://user-images.githubusercontent.com/111011292/211858412-f07db10b-3782-4a29-8aa7-44c09f64e692.svg" height= "60px" width= "60px">
