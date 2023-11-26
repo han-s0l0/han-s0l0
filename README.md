@@ -2,7 +2,7 @@
 
 <h2>
      <ul>
-          <l>💻 Estudante de Sistemas de Informação - 4º Semestre </l>
+          <l>💻 Estudante de Sistemas de Informação - 4º Semestre </l><br>
           <l>🤵 Expêriencia em Visão Computacional, trabalhei desenvolvendo modelos de treinamento com YOLOV5 </l>
      Contact me through my linkedin: <a href="https://www.linkedin.com/in/hanna-dias-roger-98a602242/" target="blank"><img src="https://user-images.githubusercontent.com/111011292/211854709-e03ee6b9-bd9e-4b70-95b1-c3514dbce303.png" align= "center" height= "30px" width= "40px"/></a>
 </h2>
