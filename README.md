@@ -5,7 +5,7 @@
           <li>💻 Estudante de Sistemas de Informação - 4º Semestre </li>
           <li>🤵 Expêriencia em Visão Computacional, trabalhei desenvolvendo modelos de treinamento com YOLOV5 </li>
      </ul>
-     Entre em contato através do meu LinkedIn: <a href="https://www.linkedin.com/in/hanna-dias-roger"><img src="https://user-images.githubusercontent.com/111011292/211854709-e03ee6b9-bd9e-4b70-95b1-c3514dbce303.png" align= "center" height= "30px" width= "40px"/></a>
+     Entre em contato através do meu LinkedIn: <a href="https://www.linkedin.com/in/hanna-dias-roger" target="blank"><img src="https://user-images.githubusercontent.com/111011292/211854709-e03ee6b9-bd9e-4b70-95b1-c3514dbce303.png" align= "center" height= "30px" width= "40px"/></a>
 </h2>
 
 <h3>Habilidades:
