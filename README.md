@@ -2,7 +2,7 @@
 
 <h3>
      <ul>
-          <li>💻 Estudante de Sistemas de Informação - 4º Semestre</li>
+          <li>💻 Estudante de Sistemas de Informação - 5º Semestre</li>
           <li>🤵 Expêriencia em Visão Computacional, trabalhei desenvolvendo modelos de treinamento com YOLOV5</li>
           <li>🤓 Tenho interesse em Desenvolvimento de Jogos e Segurança da Informação</li>
      </ul>
